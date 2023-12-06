@@ -1,0 +1,10 @@
+Practical no 1:
+Exploring and building a verification lab for penetration testing (Kali Linux )
+install kali and metasploit on VMbox
+1. open kali terminal >> ifconfig
+2.nmap -h
+3.nmap -sV192.168.1.28
+4.sudo masscan -p80 10.0.2.15(inet when we type ipconfig commnad)
+5.sudo masscan -p53 10.0.2.15
+6.sudo masscan -p80,53 10.0.2.15
+

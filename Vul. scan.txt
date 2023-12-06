@@ -1,0 +1,10 @@
+practical no 04
+practical on vulnerability scanning and assessment 
+
+1. open linux terminal 
+2. type sudo nikto -h
+3. sudo nikto -h https://www.facebook.com/
+4. sudo nikto uniscan -u http://facebook.com/
+5. sudo apt-get install uniscan 
+6. sudo uniscan -u http://facebook.com
+

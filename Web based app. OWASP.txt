@@ -1,0 +1,10 @@
+in kali> search web application analysis
+open zap if not present download 
+owasp zap
+click no and star
+click on automated scan
+Open metasploit and type ifconfig and get inet address keep it running in background
+in url to attack: http://192.168.1.28(inet address of metasploit)/dvwa
+click both checkboxes and with firefox
+attack
+take screenshot of alerts, ajax spider and active scan

@@ -1,0 +1,9 @@
+practical no 6
+aim : practical on metasploit framework for exploitation
+
+1. open terminal in linux 
+2. type sudo apt install apache2 >> enter password
+3. service apache2 start Copy
+4. msfconsole
+5. then automaticly open apache2 debian default page 
+6. if not open >> go to brw and type localhost

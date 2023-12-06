@@ -1,0 +1,25 @@
+practical no:03
+
+Aim: Practical on enumerating host , port and service scanning.
+
+1. open linux >> go to terminal 
+2. type masscan --regress
+2. type masscan --help
+3. type ipconfig
+4. type sudo masscan -p80 [inet address found in ipconfig ] 
+5. type password and enter
+6.  type sudo masscan -p80,53 [inet address found in ipconfig ] 
+7. go to metasploit go to terminal
+8. type ifconfig
+9. copy inet addr 
+10. go to linux terminal and type 
+11. nmap -v -p 0-65535 -A 192.168.1.34[this is int add found in metasploit] -oA metaspoitable2
+
+12. nmap -v -T5 -p 0-65535 -A 192.168.1.34[this is int add found in metasploit] -oA metaspoitable2
+
+13. type ls 
+14. mkdir target
+15. mv metaspoitable2.* target/
+16. cd target
+17. ls 
+18. cat metaspoitable2.nmap >> click enter

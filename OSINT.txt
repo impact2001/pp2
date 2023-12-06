@@ -1,0 +1,26 @@
+Practical no 02
+Aim: Use of open source intelligence and passive reconnaissance
+
+1. open brw>> type infosecwarrior.com and copy his email address 
+2. open osintframework.com
+3.Select email address>emailsearch:
+4. Search spokeo.com >> peast copy email address 
+
+5. select breach data in OSINT
+6. open haveibeenpwned >> and peast email address 
+7.check your email address under data breach or not 
+
+8. Select Email Verification in osint
+9. select Mailboxvalidator and enter email address
+
+10. Select username>usename search engine in osint
+11. Open namechk.com & search a name:
+
+12. Select Domain name>passive DNS>chlick on security trials on osint 
+13. enter site >> armourinfosec.com >> check his domain name server records
+
+14. select exploits and advisories >> default password 
+15. search cirt.net >> type any password and check how many system use this 
+
+16. type routerpasswords.com and type D- Link and click on find password 
+ he gives you all password  
